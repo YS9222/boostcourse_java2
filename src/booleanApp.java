@@ -15,7 +15,7 @@ public class booleanApp {
 		//1. 변수뒤 . 을 붙여 해당 타입의 메서드를 사용가능(foo.contains)
 		//2. 해당 매서드는 true, false를 returns 함 
 		
-		//비교연산자 	true, false를 반환 
+		//!!!비교연산자는 	true, false를 반환함!!! 
 		System.out.println(1>1); //false
 		System.out.println(1<1); //false
 		System.out.println("12" == "12"); //true
